@@ -158,6 +158,8 @@ This runs `ci:backend`, `ci:frontend`, and `ci:contract` in sequence — build, 
 
 xConfess participates in Stellar Wave. Check the open issues for work tagged `Stellar Wave`, then coordinate before opening a PR.
 
+When your PR is ready for review, use the [Ready for Review comment template](docs/WAVE_5_READY_FOR_REVIEW_TEMPLATE.md) to signal maintainers.
+
 ## Package Docs
 - `xconfess-backend/README.md`
 - `xconfess-frontend/README.md`
